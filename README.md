@@ -2,7 +2,7 @@
 
 ## Auteur
 Fatimazahra Massane  
-Master SDIA (Systèmes Décisionnels et Intelligence Artificielle)
+Master SDIA 
 
 ## Description
 Ce projet consiste en le développement d'une application web complète de gestion des utilisateurs, implémentant les opérations CRUD (Create, Read, Update, Delete). L'architecture repose sur une séparation claire entre le backend et le frontend, conformément aux standards modernes de développement web.
